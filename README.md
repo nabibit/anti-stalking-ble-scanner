@@ -1,5 +1,6 @@
 # Scanner Anti-Harcèlement (Détecteur de traceurs BLE)
 
+| Author | Bianca Dan |
 
 ## Description
 
